@@ -1,4 +1,4 @@
-_titre_ : pizza
+_titre_ : pizza légumes
 _base_ : tomate
 _toppings_ :
   -aubergine
