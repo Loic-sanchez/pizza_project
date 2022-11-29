@@ -3,3 +3,4 @@ _base_ : tomate
 _toppings_ :
   -aubergine
   -poivrons marinés
+  - FROMAGE
